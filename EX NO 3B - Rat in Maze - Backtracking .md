@@ -1,5 +1,5 @@
 
-# EX 3B Rat in Maze- Backtracking 
+## DATE:10.9.26
 
 ## AIM:
 To write a Java program to for given constraints.
@@ -28,6 +28,8 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 
 ## Program:
 ```
+DEVELOPED BY: PRIYADHARSHINI S.S
+REGISTER NO: 212223040156
 import java.util.*;
 
 public class Main {
