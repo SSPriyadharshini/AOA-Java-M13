@@ -1,6 +1,6 @@
 
 # EX 3C Tug of War problem - Backtracking.
-
+## DATE: 10.9.26
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums, return true if you can partition the array into two subsets such that the sum of the elements in both subsets is equal or false otherwise.
@@ -30,6 +30,8 @@ Constraints:
 
 ## Program:
 ```
+DEVELOPED BY: PRIYADHARSHINI S.S
+REGISTER NO: 212223040156
 
 import java.util.Scanner;
 public class Solution {
