@@ -1,6 +1,6 @@
 
 # EX 3A N Queens Problem - Backtracking Approach.
- 
+## DATE: 10.9.26
 ## AIM:
 To Write a Java program for N queens using backtracking approach.
 You are given an integer N. For a given N x N chessboard, find a way to place 'N' queens such that no queen can attack any other queen on the chessboard.
@@ -30,6 +30,8 @@ If there is no solution to the problem  print  "Solution does not exist"
 
 ## Program:
 ```
+DEVELOPED BY : PRIYADHARSHINI S.S
+REGISTER NO: 212223040156
 
 import java.util.Scanner;
 
